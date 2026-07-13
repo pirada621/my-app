@@ -28,6 +28,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('blogs') }}">บทความ</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('create') }}">เขียนบทความ</a>
+                </li>
 
             </ul>
         </div>
